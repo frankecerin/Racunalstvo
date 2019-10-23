@@ -9,7 +9,6 @@ int main()
 	int b;
 	
 	cout<<"Unesite zeljeni broj polja:"<<endl;
-	
 	cin>>b;
 	int A[b];
 	
